@@ -1,0 +1,3 @@
+interface ICommand {
+    void execute();
+}
